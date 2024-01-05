@@ -1,6 +1,5 @@
 package com.omidmohebbise.sp.shell.springshell;
 
-import org.springframework.shell.command.annotation.Command;
 import org.springframework.shell.standard.ShellComponent;
 import org.springframework.shell.standard.ShellMethod;
 import org.springframework.shell.standard.ShellOption;
